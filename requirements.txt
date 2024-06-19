@@ -1,6 +1,5 @@
 gunicorn
 urlopen
-BeautifulSoup
+beautifulsoup4
 Flask
 flask_restful
-json
