@@ -1,4 +1,3 @@
-gunicorn
 urlopen
 beautifulsoup4
 Flask
